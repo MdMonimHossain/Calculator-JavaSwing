@@ -1,4 +1,4 @@
-# JavaSwing-Simple-Calculator
+# Calculator-JavaSwing
 
 ## It's a simple calculator made using Swing, a GUI widget toolkit for Java
 
