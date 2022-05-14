@@ -2,8 +2,8 @@
 
 ## It's a simple calculator made using Swing, a GUI widget toolkit for Java
 
-### IDE used: Apache NetBeans
 ### Programming Language: Java
+### IDE used: Apache NetBeans
 ### GUI: Swing
 
 <a href="https://drive.google.com/file/d/1hVWQepnTShVVZrGjAaKLYEjaWdzV2xCl/view?usp=sharing">Download Link (.exe)</a>
