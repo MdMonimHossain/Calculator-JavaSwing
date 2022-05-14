@@ -2,7 +2,7 @@
 
 ## It's a simple calculator made using Swing, a GUI widget toolkit for Java
 
-### IDE used: NetBeans
+### IDE used: Apache NetBeans
 ### Programming Language: Java
 ### GUI: Swing
 
